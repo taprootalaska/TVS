@@ -15,7 +15,7 @@ get_header();
 .entry-content, .entry-summary {padding: 0 0 0;margin-top:-10px;margin-left:1px !important;}
 .showTime {
 	text-align: center !important;
-font-family: customFont3 !important;
+font-family: customFont3 !important;  cb
 font-size: 26px;
 margin-top: -18px !important;
 margin-bottom: 0px;
